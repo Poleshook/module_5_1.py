@@ -12,7 +12,7 @@ class House:
                 print(i)
 
 
-h1 = House('ЖК Башня свободы>', 27)
+h1 = House('ЖК Башня свободы', 27)
 h2 = House('БЦ Каскад', 10)
 h1.go_to(12)
 h2.go_to(11)
